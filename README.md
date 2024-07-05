@@ -3,7 +3,7 @@ A quick-start project that demonstrates how to integrate a Javascript pivot tabl
 
 Refer to the following documentation to learn about the Javascript pivot table Component: https://ej2.syncfusion.com/javascript/documentation/pivotview/getting-started?cs-save-lang=1&cs-lang=html
 
-Check out this online example of the Javascript pivot table Component: https://ej2.syncfusion.com/demos/#/fluent2/pivot-table/overview.html
+Check out this online example of the Javascript pivot table Component: https://ej2.syncfusion.com/javascript/demos/#/fluent2/pivot-table/overview.html
 
 # Project prerequisites
 Make sure that you have the compatible versions of Visual Studio Code in your machine before starting to work on this project.
